@@ -1,2 +1,2 @@
-# Helicopter-Demo
 Helicopter Tour Demo
+Squeeze Page
